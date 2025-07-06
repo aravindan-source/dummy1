@@ -1,0 +1,7 @@
+{
+    "host": "db.cnygdpjwxwlmngbebuyu.supabase.co",
+    "port": 5432,
+    "user": "test",
+    "password": "test123",
+    "database": "chinook" 
+}
