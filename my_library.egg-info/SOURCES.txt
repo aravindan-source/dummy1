@@ -1,0 +1,9 @@
+pyproject.toml
+setup.py
+my_library/__init__.py
+my_library/core.py
+my_library.egg-info/PKG-INFO
+my_library.egg-info/SOURCES.txt
+my_library.egg-info/dependency_links.txt
+my_library.egg-info/top_level.txt
+tests/test_core.py
